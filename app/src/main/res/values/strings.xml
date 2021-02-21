@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Code Challenge</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="errorMSG">No Data For That Date...</string>
+    <string name="author">Paulo Rogero</string>
+    <string name="created_by">Created By</string>
+    <string name="time">06:40 AM</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind">Wind</string>
+    <string name="sunset">Sunset</string>
+    <string name="search">Search</string>
+    <string name="location">City, Country</string>
+    <string name="date">20 April 2012, 20:08 PM</string>
+    <string name="clear_sky">Clear Sky</string>
+    <string name="temp">29°C</string>
+    <string name="min_temp">Min Temp</string>
+    <string name="max_temp">Max Temp</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="backBtn">Back</string>
+    <string name="sliderTitle">Select Time</string>
+</resources>
