@@ -1,6 +1,8 @@
 # CodeChallenge
 Accenture Code Challenge Demo
 
+Signed APK in App/Release/app-release.apk
+
 Geolocation to find current location
 
 Search locations around the world
